@@ -7,6 +7,11 @@ namespace Constructors
         public int Id;
         public string Name;
 
+        public Customer()
+        {
+
+        }
+
         public Customer(int id)
         {
             this.Id = id;
