@@ -6,6 +6,15 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+            try
+            {
+                var num = int.Parse("abc");
+            }
+            catch (System.Exception)
+            {
+
+                Console.WriteLine("Conversion failed.");
+            }
             var number = int.Parse("abc");
 
             int number;
