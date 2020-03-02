@@ -2,22 +2,14 @@
 
 namespace Methods
 {
-    public class Point
-    {
-        public int X;
-        public int Y;
 
-        public Point(int x, int y)
-        {
-            this.X = x;
-            this.Y - y;
-        }
-    }
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var point = new Point(10, 20);
+            point.Move(new Point(40, 60));
+            Console.WriteLine("Point is at ({0}, {1}", point.X, point.Y);
         }
     }
 }
