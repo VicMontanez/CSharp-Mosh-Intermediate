@@ -7,6 +7,10 @@ namespace Methods
         static void Main(string[] args)
         {
             var number = int.Parse("abc");
+
+            int number;
+            var result = int.TryParse("abc", out number);
+
         }
 
         static void UseParams()
