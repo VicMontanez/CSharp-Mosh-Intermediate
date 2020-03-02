@@ -6,7 +6,7 @@ namespace Methods
     {
         static void Main(string[] args)
         {
-
+            var number = int.Parse("abc");
         }
 
         static void UseParams()
