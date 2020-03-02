@@ -2,13 +2,19 @@
 
 namespace Methods
 {
-
     class Program
     {
         static void Main(string[] args)
         {
 
+        }
 
+        static void UseParams()
+        {
+            var calculator = new Calculator();
+            Console.WriteLine(calculator.Add(1, 2));
+            Console.WriteLine(calculator.Add(1, 2, 3));
+            Console.WriteLine(calculator.Add(1, 2, 3, 4));
         }
         static void UsePoints()
         {
