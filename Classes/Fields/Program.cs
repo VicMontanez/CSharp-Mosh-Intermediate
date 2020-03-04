@@ -6,7 +6,7 @@ namespace Fields
     {
         public int Id;
         public string Name;
-        public List<Order> Orders;
+        public List<Order> Orders = new List<Order>();
 
         public Customer(int id)
         {
