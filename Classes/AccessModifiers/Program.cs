@@ -10,6 +10,11 @@ namespace AccessModifiers
         {
             _birthdate = birthdate;
         }
+
+        public DateTime GetBirthdate()
+        {
+            return _birthdate;
+        }
     }
     class Program
     {
