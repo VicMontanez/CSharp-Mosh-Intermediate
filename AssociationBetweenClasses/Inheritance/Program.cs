@@ -2,20 +2,12 @@
 
 namespace Inheritance
 {
-    public class PresentationObject
+    public class Text : PresentationObject
     {
-        public int Width { get; set; }
-        public int Height { get; set; }
+        public int FontSize { get; set; }
+        public string FontName { get; set; }
 
-        public void Copy()
-        {
 
-        }
-
-        public void Duplicate()
-        {
-
-        }
     }
     class Program
     {
