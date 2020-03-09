@@ -9,7 +9,16 @@ namespace AccessModifiers
 
         public void Promote()
         {
+            var rating = CalculateRating();
+            if (rating == 0)
+                Console.WriteLine("Promote to Level 1");
+            else
+                Console.WriteLine("Promooted to Level 2");
+        }
 
+        public int CalculateRating()
+        {
+            return 0;
         }
 
 
