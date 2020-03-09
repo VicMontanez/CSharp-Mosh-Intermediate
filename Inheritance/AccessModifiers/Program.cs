@@ -1,5 +1,4 @@
 ﻿using System;
-
 using Amazon;
 
 namespace AccessModifiers
@@ -10,7 +9,7 @@ namespace AccessModifiers
         static void Main(string[] args)
         {
             var customer = new Customer();
-            Amazon.RateCalculator calculator = new RateCalculator();
+            RateCalculator calculator = new RateCalculator();
 
 
         }
