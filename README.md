@@ -1,8 +1,8 @@
-//C# Mosh Intermediate course
-[] Classes
-[] Association between classes
+C# Mosh Intermediate course
+[x] Classes
+[x] Association between classes
 [] Inheritance
 [] Polymorphism
 []Interfaces
 
-2.7
+4.22
