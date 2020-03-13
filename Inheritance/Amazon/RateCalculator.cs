@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Amazon
 {
-    class RateCalculator
+    public class RateCalculator
     {
         internal int Calculate()
         {
