@@ -17,7 +17,7 @@ namespace Methods
             }
             var number = int.Parse("abc");
 
-            int number;
+
             var result = int.TryParse("abc", out number);
             if (result)
                 Console.WriteLine(number);

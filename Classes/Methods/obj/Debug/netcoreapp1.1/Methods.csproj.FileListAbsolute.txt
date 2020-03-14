@@ -1,0 +1,5 @@
+/Users/muse/Documents/Csharp/Mosh-Intermediate/Classes/Methods/bin/Debug/netcoreapp1.1/Methods.deps.json
+/Users/muse/Documents/Csharp/Mosh-Intermediate/Classes/Methods/bin/Debug/netcoreapp1.1/Methods.runtimeconfig.json
+/Users/muse/Documents/Csharp/Mosh-Intermediate/Classes/Methods/bin/Debug/netcoreapp1.1/Methods.runtimeconfig.dev.json
+/Users/muse/Documents/Csharp/Mosh-Intermediate/Classes/Methods/obj/Debug/netcoreapp1.1/Methods.csproj.CoreCompileInputs.cache
+/Users/muse/Documents/Csharp/Mosh-Intermediate/Classes/Methods/obj/Debug/netcoreapp1.1/Methods.AssemblyInfo.cs
